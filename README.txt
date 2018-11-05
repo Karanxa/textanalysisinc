@@ -1,7 +1,7 @@
 **This is an open-source program created by students of Computer Science and Engineering of Chandigarh University consisting of four members. Each module of this program has been built by different members of this group. Edit Distance and Steps-of-Conversion by Danish Shakeel, Matching by Karan Arora, and Entity Extraction by Bhargav Sharma and Priyanshu Jain. Supervision, compilation, adaptation and debugging by Danish Shakeel.**
 
-Email:danishshakeel54@gmail.com
-GitHub:www.github.com/danish17
+Email:karanxa007@gmail.com
+GitHub:www.github.com/Karanxa
 
 Uses:
 ->Finding Levenshtein Distance
